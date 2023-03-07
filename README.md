@@ -30,7 +30,7 @@
 
 ### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
 
-[![Run on Repl.it](https://repl.it/badge/github/MagoInterior/Bot-replit)](https://repl.it/github/MagoInterior/Bot-replit) 
+[![Run on Repl.it](https://repl.it/badge/github/MagoInterior/Alphabot-Md)](https://repl.it/github/MagoInterior/Alphabot-Md) 
 
 ---
 
